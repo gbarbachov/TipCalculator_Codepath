@@ -19,6 +19,16 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func onTap(_ sender: Any) {
+        print("Hello")
+        view.endEditing(true)
+    }
+    
+    @IBAction func tipCalculation(_ sender: Any) {
+        //get bill amount
+        //calculate tip and total
+        //update tip and total labels
+        
+    }
 }
 
