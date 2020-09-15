@@ -4,7 +4,7 @@
 
 Submitted by: **Grigori Barbachov**
 
-Time spent: **1.25** hours spent in total
+Time spent: **4.25** hours spent in total
 
 ## User Stories
 
